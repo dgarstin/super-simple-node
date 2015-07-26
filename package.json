@@ -1,0 +1,11 @@
+{
+  "name": "super-simple-node",
+  "version": "0.0.1",
+  "description": "Really simple node server",
+  "author": "Daniel Garstin <danielgarstin@gmail.com>",
+  "dependencies": {
+    "express": "3.x",
+    "mongodb": "*",
+    "mongoose": "*"
+  }
+}
