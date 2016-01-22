@@ -4,8 +4,8 @@
   "description": "Really simple node server",
   "author": "Daniel Garstin <danielgarstin@gmail.com>",
   "dependencies": {
+    "body-parser": "^1.14.2",
     "express": "3.x",
-    "mongodb": "*",
-    "mongoose": "*"
+    "monk": "^1.0.1"
   }
 }
